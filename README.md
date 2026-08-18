@@ -4,7 +4,7 @@ Professional PHP MVC framework powering the B-Hive Brand Consultancy website.
 
 **Tagline:** Building Brands. Creating Visibility. Positioning Talent.
 
-**Location:** Nairobi, Kenya | **Founder:** Betty Kithinji
+**Location:** Nairobi, Kenya | **Founder:** Betty Kithinji | **Website:** https://bhiveconsultancy.co.ke
 
 ---
 
