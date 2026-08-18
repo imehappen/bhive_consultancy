@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /lib/
+Disallow: /storage/
+
+Sitemap: https://www.bhiveconsultancy.co.ke/sitemap.xml
